@@ -1,6 +1,5 @@
-# Arc_memory-_management
+# Memory management in Swift
 
-## Memory management in Swift
 - Memory - Memory management
 - Reference Type and Value Type
 - Automatic Reference Counting
